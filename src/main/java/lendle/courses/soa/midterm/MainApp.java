@@ -53,7 +53,7 @@ public class MainApp extends Application {
         webButton.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                openWebTab(null);
+                openWebTab(null);////////
             }
 
         });
